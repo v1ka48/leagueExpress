@@ -1,0 +1,18 @@
+# Virtual environment
+fantasy_env/
+
+# Environment variables
+.env
+
+# Data files
+data/
+
+# Generated scripts and videos
+scripts/
+videos/
+
+# Logs
+logs/
+
+# MacOS specific
+.DS_Store
